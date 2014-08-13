@@ -1,0 +1,13 @@
+Requirements: Word 2007; Office Add-in: Save As PDF
+
+If your system has Word 2007 and the necessary 'Save as PDF' add-in installed, PDF Generator DOC2PDF can take a specified input Microsoft Word document and output a PDF file to your specified output folder. The application also generates an email address and sends it to the supplied email address.
+
+Usage:
+PDF Generator DOC2PDF.exe #inputfile.doc# #outputfile.pdf# #myemail@address.com#
+
+The help and about menu options brings up the help and about dialog boxes respectively.
+
+Note that this application is designed to be launched and forgotten, meaning that it loads, does its job and then shuts itself down again.
+
+
+-- Last Updated: 27/11/2007 --

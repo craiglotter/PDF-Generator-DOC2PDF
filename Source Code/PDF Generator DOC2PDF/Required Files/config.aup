@@ -1,0 +1,3 @@
+APPLICATION_NAME=PDF Generator DOC2PDF
+EXECUTABLE=PDF Generator DOC2PDF.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/PDF Generator DOC2PDF/manifest.xml

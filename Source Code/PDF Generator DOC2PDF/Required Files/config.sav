@@ -1,0 +1,8 @@
+mailserver1=mail.uct.ac.za
+mailserver1port=25
+mailserver2=obe1.com.uct.ac.za
+mailserver2port=25
+webmasteraddress=com-webmaster@uct.ac.za
+webmasterdisplay=Commerce Webmaster
+webroot=C:\Inetpub\wwwroot
+webroottranslate=http://www.commerce.uct.ac.za
